@@ -8,10 +8,10 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-<p>Soy Diseñador UX/UI y Animador Digital por naturaleza, actualmente desempeñándome como Desarrollador Web Full Stack.
-Participo en todas las etapas de producción, desde la arquitectura de información, wireframes y pruebas de usuario, hasta el diseño, maquetación, optimización e integraciones.
-He logrado posicionar tres sitios en la primera página de Google mediante estrategias avanzadas de SEO. Trabajo con plataformas como WordPress, diversos CRMs (Zoho, HubSpot) y APIs.
-Además, tengo experiencia en análisis y gestión de bases de datos en MySQL, incluyendo la creación y estructuración de bases y tablas, limpieza de datos y consultas avanzadas</p>
+<p> Me especializo en diseñar y construir ecosistemas que conectan negocio, tecnología y operación real: desde la captura del lead hasta la automatización de procesos comerciales, administrativo y de servicio.<br>
+Mi perfil combina visión técnica y operativa, permitiéndome traducir, conectar áreas, alinear procesos y transformar necesidades
+o lógica de negocio en estructuras tecnológicas automatizadas.
+</p>
 
 
 
