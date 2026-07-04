@@ -1,7 +1,7 @@
 <body style= "background-color: black;">
 <h1 align="center">Hola, soy <span>Luis Ángel</span></h1>
 
-[![Mi Banner](https://raw.githubusercontent.com/Dev-frog89/Dev-frog89/main/tu-imagen.png)](https://github.com/Dev-frog89/Dev-frog89/blob/main/tu-imagen.png)
+[![Mi Banner](https://raw.githubusercontent.com/Dev-frog89/Dev-frog89/main/ChatGPT%20Image%203%20jul%202026%2C%2007_28_45%20p.m..png)](https://github.com/Dev-frog89/Dev-frog89)
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi {
 
